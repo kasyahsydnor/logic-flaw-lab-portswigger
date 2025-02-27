@@ -26,7 +26,7 @@ The lab scenario presented a vulnerable web application where pricing enforcemen
 
 3️. Successfully purchased the item for **$1 instead of $100**, demonstrating the flaw.
 
-📸 **Screenshot:** *(Add your screenshot here)*
+📸 **Screenshot:** ![priceat1](https://github.com/user-attachments/assets/f06fbb74-f467-4a8b-875d-b2f1be4b1282)
 
 ###  Step 4: Prevention Strategies
 To mitigate this vulnerability, web applications should:
