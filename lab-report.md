@@ -38,6 +38,6 @@ To mitigate this vulnerability, web applications should:
 This lab provided **hands-on experience** in identifying and exploiting **logic flaws** in web applications. It reinforced the importance of **server-side security controls** and the risks of excessive trust in client-side validation.
 
 ---
-⚠️ **Ethical Disclaimer:** This documentation is for **educational purposes only**. Always conduct security testing with **proper authorization**.
+ **Ethical Disclaimer:** This documentation is for **educational purposes only**. Always conduct security testing with **proper authorization**.
 
 
