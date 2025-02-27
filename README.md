@@ -1,7 +1,7 @@
 # PortSwigger Logic Flaw Lab - Excessive Trust in Client-Side Controls
 
 ## Overview
-This project documents my completion of the **PortSwigger Web Security Academy** lab on **logic flaws** due to excessive trust in client-side controls. The lab demonstrates how web applications that rely on client-side validation can be exploited to bypass security mechanisms.
+This project documents my completion of the **PortSwigger Web Security Academy** lab on **logic flaws** due to excessive trust in client-side controls. The lab demonstrates how web applications that rely on client-side validation can be exploited to bypass security mechanisms. Intercept, review, and manipulate HTTP traffic using Burp Proxy
 
 ## Key Takeaways
 - Understanding how **client-side controls** can be manipulated.
@@ -15,7 +15,6 @@ This project documents my completion of the **PortSwigger Web Security Academy**
 ## Tools Used
 - **Burp Suite**
 - **Web Proxy Interception**
-- **HTTP Request Manipulation**
 
 ## Ethical Disclaimer
 This project is for **educational purposes only**. Always test with permission.
