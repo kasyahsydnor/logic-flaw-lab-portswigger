@@ -4,10 +4,13 @@
 This repository documents my completion of the **PortSwigger Web Security Academy** lab on **logic flaws caused by excessive trust in client-side controls**. The lab demonstrates how applications relying on client-side validation can be exploited by modifying requests before they reach the server.
 
 ## 🔑 Key Takeaways
-✅ Understanding how **client-side controls** can be manipulated.
-✅ Using **Burp Suite** to intercept and modify requests.
-✅ Exploiting **business logic flaws** to escalate privileges or bypass restrictions.
-✅ Emphasizing **server-side validation** for security enforcement.
+- Understanding how **client-side controls** can be manipulated.
+
+- Using **Burp Suite** to intercept and modify requests.
+
+- Exploiting **business logic flaws** to escalate privileges or bypass restrictions.
+
+- Emphasizing **server-side validation** for security enforcement.
 
 ## Lab Walkthrough
 
